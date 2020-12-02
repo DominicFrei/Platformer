@@ -1901,6 +1901,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6006799829991520271, guid: ada7cec65bb3b4e44aa0db03dd17a63b, type: 3}
+      propertyPath: Event
+      value: event:/Level 1 - test2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6006799829991520271, guid: ada7cec65bb3b4e44aa0db03dd17a63b, type: 3}
+      propertyPath: PlayEvent
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6006799829991520271, guid: ada7cec65bb3b4e44aa0db03dd17a63b, type: 3}
+      propertyPath: StopEvent
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6006799829991520271, guid: ada7cec65bb3b4e44aa0db03dd17a63b, type: 3}
+      propertyPath: OverrideMaxDistance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6006799829991520271, guid: ada7cec65bb3b4e44aa0db03dd17a63b, type: 3}
+      propertyPath: OverrideMinDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ada7cec65bb3b4e44aa0db03dd17a63b, type: 3}
 --- !u!1001 &9055499832519717136
